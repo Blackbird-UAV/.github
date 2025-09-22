@@ -28,7 +28,7 @@
     <tr>
         <td align="center">
             <a href="https://blackbirduav.ca/assets/bbuavsponsorpackage2025.pdf">
-                <img src="https://github.com/user-attachments/assets/1effad15-3083-4e32-9ef0-67a5b172f1e6" alt="Sponsorship package">
+                <img src="https://github.com/user-attachments/assets/9f9f8b0d-d219-4553-8317-a270b80809f8" alt="Sponsorship package">
             </a>
         </td>
         <td align="center">
