@@ -22,12 +22,12 @@
 
 <table align="center">
     <tr>
-        <th align="center"><a href="https://blackbirduav.ca/assets/Blackbird%20UAV%20Sponsorship%20Package%202024-2025.pdf"><strong>Sponsorship package</strong></a></th>
+        <th align="center"><a href="https://blackbirduav.ca/assets/bbuavsponsorpackage2025.pdf"><strong>Sponsorship package</strong></a></th>
         <th align="center"><a href="https://github.com/Blackbird-UAV/BlackbirdUAV-Website"><strong>Website Source Code</strong></a></th>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://blackbirduav.ca/assets/Blackbird%20UAV%20Sponsorship%20Package%202024-2025.pdf">
+            <a href="https://blackbirduav.ca/assets/bbuavsponsorpackage2025.pdf">
                 <img src="https://github.com/user-attachments/assets/1effad15-3083-4e32-9ef0-67a5b172f1e6" alt="Sponsorship package">
             </a>
         </td>
