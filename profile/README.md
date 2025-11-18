@@ -1,10 +1,14 @@
-<div align="center">
-    <a href="https://blackbirduav.ca">
-        <img src="https://github.com/user-attachments/assets/f6306836-6f36-4c2a-9885-75999f012aab" alt="Blackbird UAV">
-    </a>
+<div align="center" style="width:100%;">
+  <a href="https://blackbirduav.ca">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/836fb028-7dbe-4231-98d8-655b2403d845">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/271396bd-6481-4cd9-b735-d8180a4749e4">
+      <!-- Fallback (-->
+        <img src="https://github.com/user-attachments/assets/f6306836-6f36-4c2a-9885-75999f012aab" alt="Blackbird UAV" style="width: 100%; height: auto;">
+    </picture>
+  </a>
 </div>
 
----
 
 <table align="center">
     <tr>
